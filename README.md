@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JillianDJZ
-- 👀 I love solving problems, excited and satisfied when my code can run successfully. I also like the way software development works, it breaks big tasks into small pieces, which gives me confidence in solving any problem.
-- 🌱 I am in the final year of my bachelor's degree in computer science in  the UC.
-- 💞️ I am applying for a long term role as a software developer.
+- 👀 I enjoy solving problems, excited and satisfied when code running successfully. I also like the way software development works, it breaks big tasks into small pieces, which gives me confidence in solving any problem.
+- 🌱 I have graduated from UC at the end of 2022 with Bachelor of Science majoring in Computer Science.
+- 💞️ I have a three-month software engineer internship experience in Seequent, and I have the opportunity to get a permanent position, but I gave up because of family relocation.
+- 💞️ In February 2023, I joined FNZ and became an analysis developer until now.
 - 📫 How to reach me: jillian.zhou2017@gmail.com
 
 <!---
